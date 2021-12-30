@@ -25,6 +25,10 @@ Ver 1.1: 添加BBR及宝塔开心版、Docker安装脚本
 ```shell
 wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/MisakaLinuxToolbox@master/MisakaToolbox.sh && chmod -R 777 MisakaToolbox.sh && bash MisakaToolbox.sh
 ```
+### 测试netfix流媒体解锁脚本
+```
+wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.01/nf_2.01_linux_amd64 && chmod +x nf && clear && ./nf
+```
 
 ## 赞助我们
 
