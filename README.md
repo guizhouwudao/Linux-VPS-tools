@@ -36,3 +36,8 @@ wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.01/nf_2.
 
 ## 交流群
 [Telegram](https://t.me/misakanetcn)
+
+[百度一下,你就知道]('https://www.baidu.com' "百度")
+
+### 改变要彻底,如果有梦就还有希望,而并非没有一切
+
