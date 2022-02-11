@@ -33,6 +33,7 @@ wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.01/nf_2.
 ```
 # 如果vps不能访问 raw.githubusercontent.com 推荐使用这个
 wget --no-check-certificate -qO natcfg.sh http://www.arloor.com/sh/iptablesUtils/natcfg.sh && bash natcfg.sh
+wget --no-check-certificate -qO natcfg.sh https://raw.githubusercontent.com/arloor/iptablesUtils/master/natcfg.sh && bash natcfg.sh
 ```
 
 ## 赞助我们
