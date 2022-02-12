@@ -30,8 +30,8 @@ wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/MisakaLinuxToolbox@master/Misaka
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.01/nf_2.01_linux_amd64 && chmod +x nf && clear && ./nf
 ```
 ### 服务器中转节点
+#### 如果vps不能访问 raw.githubusercontent.com 推荐使用这个
 ```
-# 如果vps不能访问 raw.githubusercontent.com 推荐使用这个
 wget --no-check-certificate -qO natcfg.sh http://www.arloor.com/sh/iptablesUtils/natcfg.sh && bash natcfg.sh
 ```
 ```
