@@ -21,7 +21,10 @@ Ver 1.2: 添加流媒体检测，三网测速脚本
 Ver 1.1: 添加BBR及宝塔开心版、Docker安装脚本
 
 ## 使用方法
-
+centos7安装 wget插件
+```
+yum install wget
+```
 ```shell
 wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/MisakaLinuxToolbox@master/MisakaToolbox.sh && chmod -R 777 MisakaToolbox.sh && bash MisakaToolbox.sh
 ```
