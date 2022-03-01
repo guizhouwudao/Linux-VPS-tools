@@ -25,7 +25,7 @@ centos7安装 wget插件
 ```
 yum install wget
 ```
-### 安装x-ui面板证书验证 faild 跳过证书验证= true allowed secure
+### 亚马逊(aws)安装x-ui面板证书验证 faild 跳过证书验证= true allowed secure
 ```shell
 wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/MisakaLinuxToolbox@master/MisakaToolbox.sh && chmod -R 777 MisakaToolbox.sh && bash MisakaToolbox.sh
 ```
