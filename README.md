@@ -31,7 +31,7 @@ wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/MisakaLinuxToolbox@master/Misaka
 ```
 ### 测试netfix流媒体解锁脚本
 ### 安装v2梯子选择第一个安装(解决nginx无法启动问题,可以先安装第3个),选择v2ray core核心服务,无须安装bbr(避免服务器被墙)选择vless或者vmess协议
-### 安装te代理,选择最后一个,代理端口尽量选择复杂一点
+### 安装te代理,选择telegram 代理,代理端口尽量选择复杂一点
 
 ```
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.01/nf_2.01_linux_amd64 && chmod +x nf && clear && ./nf
